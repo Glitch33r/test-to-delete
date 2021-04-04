@@ -74,3 +74,10 @@ x = 0
 while x != 10:
     print(x)
     x += 1  # x = x + 1
+
+
+print(100, 90, end='--', sep='$')
+print('hello', 'orange')
+
+while True:
+    print(100)
